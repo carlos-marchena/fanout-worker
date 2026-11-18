@@ -1,0 +1,6 @@
+target/
+.idea/
+.vscode/
+*.iml
+.claude/
+docs/Staff_Java_Developer_-_Take-Home_Test.pdf
